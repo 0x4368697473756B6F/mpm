@@ -1,0 +1,8 @@
+C:\Users\Kyouko\Documents\SharpDevelop Projects\test\orz\obj\Debug\orz.csprojResolveAssemblyReference.cache
+C:\Users\Kyouko\Documents\SharpDevelop Projects\test\orz\bin\Debug\orz.exe.config
+C:\Users\Kyouko\Documents\SharpDevelop Projects\test\orz\bin\Debug\orz.exe
+C:\Users\Kyouko\Documents\SharpDevelop Projects\test\orz\bin\Debug\orz.pdb
+C:\Users\Kyouko\Documents\SharpDevelop Projects\test\orz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kyouko\Documents\SharpDevelop Projects\test\orz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kyouko\Documents\SharpDevelop Projects\test\orz\obj\Debug\orz.exe
+C:\Users\Kyouko\Documents\SharpDevelop Projects\test\orz\obj\Debug\orz.pdb
